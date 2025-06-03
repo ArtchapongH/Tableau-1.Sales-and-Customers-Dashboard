@@ -1,5 +1,5 @@
 # Sales & Customers Dashboard
-
+https://public.tableau.com/views/SalesDashboard_17460112266520/CustomersDashboard?:language=th-TH&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ### Descriptions
 
    This dashboard contains 2 parts, which can linke to each others by clicking icons on the top left conners. It's filters can be hided and show by clicking filter icon on the top left conners too. 
